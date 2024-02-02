@@ -1,2 +1,2 @@
-# my-portfolio
-first repo
+# my-portfoli
+author -yash
